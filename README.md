@@ -1,5 +1,5 @@
 # scanner_tcp
-Simple Scanner TCP Port
+Simple Scanner TCP Port with Python
 
 (basic)
 import socket
