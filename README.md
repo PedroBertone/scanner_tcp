@@ -1,6 +1,6 @@
 # scanner_tcp
 Simple Scanner TCP Port with Python
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 (basic)
 import socket
 
@@ -21,7 +21,7 @@ target_ip = input("Digite o IP ou domínio a ser escaneado: ")
 # Faixa de portas
 for port in range(1, 1025):  # Portas bem conhecidas
     scan_port(target_ip, port)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 With Treads (Faster)
 
